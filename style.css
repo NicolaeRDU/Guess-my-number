@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.btn {
+  padding: 10px 20px;
+  background-color: bisque;
+  color: darkgoldenrod;
+  border: none;
+}
+
+.hidden {
+  display: none;
+}
